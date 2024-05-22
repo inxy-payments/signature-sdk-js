@@ -1,0 +1,15 @@
+{
+  "name": "@inxy/signature-sdk-js",
+  "version": "1.0.0",
+  "description": "A JavaScript package for creating digital signatures using RSA encryption and PEM encoding.",
+  "main": "index.js",
+  "type": "module",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "author": "INXY.IO",
+  "license": "ISC",
+  "repository": "git@github.com:inxy-payments/signature-sdk-js.git",
+  "dependencies": {
+    "node-forge": "^1.3.1"
+  }
+}
