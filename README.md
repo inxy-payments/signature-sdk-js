@@ -1,27 +1,27 @@
-# @inxy/signature-sdk-js
+# signature-sdk-js
 
 A JavaScript package for creating digital signatures using RSA encryption and PEM encoding.
 
 ## Installation
 
-You can install `@inxy/signature-sdk-js` via npm or yarn:
+You can install `signature-sdk-js` via npm or yarn:
 
 ```bash
-npm install @inxy/signature-sdk-js
+npm install signature-sdk-js
 ```
 
 ```bash
-yarn add @inxy/signature-sdk-js
+yarn add signature-sdk-js
 ```
 
 ## Usage
 
-To use `@inxy/signature-sdk-js`, follow these steps:
+To use `signature-sdk-js`, follow these steps:
 
 1. Import the package:
 
 ```javascript
-import { createSignature } from "@inxy/signature-sdk-js";
+import { createSignature } from "signature-sdk-js";
 ```
 
 2. Call the `createSignature` function with the appropriate parameters:

@@ -1,6 +1,6 @@
 {
-  "name": "@inxy/signature-sdk-js",
-  "version": "1.0.0",
+  "name": "signature-sdk-js",
+  "version": "1.0.1",
   "description": "A JavaScript package for creating digital signatures using RSA encryption and PEM encoding.",
   "main": "index.js",
   "type": "module",
